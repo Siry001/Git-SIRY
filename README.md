@@ -1,2 +1,2 @@
 # Git-SIRY
-fo siry projects
+for siry projects
